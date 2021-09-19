@@ -36,6 +36,11 @@ When viewing the trip duration distribution, males used the service more so than
 
 #### Usage by Weekday and Gender
 
+<img width="1206" alt="Screen Shot 2021-09-19 at 1 18 31 PM" src="https://user-images.githubusercontent.com/85713470/133939146-6e8ccb6b-845b-4917-8dc8-0d4660df6941.png">
+
 #### Usage by Subscriber Category and Gender
+
+<img width="599" alt="Screen Shot 2021-09-19 at 1 18 44 PM" src="https://user-images.githubusercontent.com/85713470/133939164-01e2eb58-747f-4a75-b72c-8911b762f590.png">
+
 
 ## Summary
