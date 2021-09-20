@@ -1,4 +1,4 @@
-# Module_14_Challenge
+# New York City Citybike Analysis 
 19 Sept 2021
 
 ## Overview
@@ -34,13 +34,19 @@ When viewing the trip duration distribution, males used the service more so than
 
 <img width="868" alt="Screen Shot 2021-09-19 at 1 18 01 PM" src="https://user-images.githubusercontent.com/85713470/133938785-9ccfb4cd-2050-4adb-8bec-d2ec207f8f25.png">
 
+Citybike usage in NYC tends to increase during the morning and evening commute hours during on weekdays [6-9am and 5-7pm] and on the weekends, riders tend to rent bikes thoughout the day [10am-7pm], with Saturday being the busier day for leisure activities. 
+
 #### Usage by Weekday and Gender
 
 <img width="1206" alt="Screen Shot 2021-09-19 at 1 18 31 PM" src="https://user-images.githubusercontent.com/85713470/133939146-6e8ccb6b-845b-4917-8dc8-0d4660df6941.png">
+
+The depiction shows the same trend across all genders, with both busiest time occuring during commuting hours and during the day on weekends. Additionally, it supports the previous statement that Citybike users are primarily male. 
 
 #### Usage by Subscriber Category and Gender
 
 <img width="599" alt="Screen Shot 2021-09-19 at 1 18 44 PM" src="https://user-images.githubusercontent.com/85713470/133939164-01e2eb58-747f-4a75-b72c-8911b762f590.png">
 
+Although there are some general users, subscribers tend to use the service more, and again the user base is primarily male. Thursday appears to be the busiest weekday for renting Citybikes. 
 
 ## Summary
+In New York City, Citybike is used for both leisure and as a modality of commuting into the work during the week. If this were to be implemented in Des Moines Iowa, one would have to know if residents in the city would use the service as a transportation option to get to work. Additionally, since a large number of rides ended and started in more scenic locations, it would be ideal to target locations such as the Tribecca bridge and Brodway that could be hubs for Citybike distribution in Des Moines.
